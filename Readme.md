@@ -1,77 +1,218 @@
-# Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+# 👨‍💻 Aina Kevin — Personal Portfolio
 
-:star: Star me on GitHub — it helps!
+> **M1 Intelligence Artificielle — Data & AI**
+>
+> Portfolio personnel présentant mes projets, compétences et expériences dans les domaines de la **Data Science, Intelligence Artificielle et Data Engineering**.
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+🌐 **Portfolio:** https://aina-kevin.github.io/Portfolio/
 
-### Website Preview
-#### Home Page
-<img src="website_images/HomePage.gif" width="900">
+💻 **GitHub:** https://github.com/Aina-Kevin
 
+---
 
-#### About Page
-<img src="website_images/AboutPage.png" width="900">
+## 🚀 About Me
 
+Je suis **Aina Kevin**, étudiant en **Master 1 Intelligence Artificielle** à l'**École Nationale d'Informatique (ENI)** à Madagascar.
 
-#### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
-  
+Je m'intéresse particulièrement à :
 
+- 🤖 Intelligence Artificielle
+- 📊 Data Science
+- 🧠 Machine Learning & Deep Learning
+- 🔎 Data Analysis
+- 🏗️ Data Engineering
+- 🗄️ Bases de données SQL & NoSQL
+- 📈 Data Visualization
+- ⚙️ MLOps & systèmes de données
 
-:star: Star me on GitHub — it helps!
+Ce portfolio rassemble mes différents projets académiques et personnels.
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+---
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+## 🛠️ Technologies & Tools
 
-## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+### Programming
 
+- Python
+- SQL
+- JavaScript
 
+### Data & AI
 
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- PySpark
 
-## Contributing 💡
-#### Step 1
+### Databases
 
-- **Option 1**
-    - 🍴 Fork this repo!
+- MySQL
+- MariaDB
+- MongoDB
+- SQLite
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+### Data & Visualization
 
+- Microsoft Excel
+- Power BI
+- Jupyter Notebook
 
-#### Step 2
+### DevOps & Tools
 
-- **Build your code** 🔨🔨🔨
+- Git & GitHub
+- Docker
+- Linux / WSL
+- VS Code
+- MLflow
+- Apache Airflow
 
-#### Step 3
+---
 
-- 🔃 Create a new pull request.
+## 📂 Projects
 
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+Quelques-uns de mes projets :
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+### 🤖 Machine Learning
+
+Projets utilisant des algorithmes de Machine Learning pour la classification, prédiction et analyse de données.
+
+### 🧠 Deep Learning
+
+Projets utilisant des réseaux de neurones et des architectures modernes de Deep Learning.
+
+### 👁️ Computer Vision
+
+Projets de reconnaissance faciale, détection d'objets et analyse d'images.
+
+### 📊 Data Analysis
+
+Exploration, nettoyage, visualisation et analyse de datasets avec Python, Pandas, Matplotlib et Power BI.
+
+### 🏗️ Data Engineering
+
+Projets autour du traitement, stockage et exploitation de données avec SQL, NoSQL, Hadoop, Spark et différents outils de data engineering.
+
+👉 Retrouvez les différents projets dans le dossier [`projects/`](projects/).
+
+---
+
+## 📚 Education
+
+### 🎓 Master 1 — Intelligence Artificielle
+
+**École Nationale d'Informatique (ENI)**
+Madagascar
+
+### 🎓 Licence — Électronique
+
+**École Nationale d'Informatique (ENI)**
+Madagascar
+
+---
+
+## 📌 Portfolio Sections
+
+Le portfolio présente notamment :
+
+- 👤 About
+- 🎯 Interests
+- 🎓 Education
+- 📜 Certifications
+- 💼 Experience
+- 🚀 Projects
+- 🛠️ Skills
+- 📄 Resume
+- 📬 Contact
+
+---
+
+## 🌐 Portfolio Website
+
+Le site est une application web statique développée avec :
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Typed.js
+
+Il est hébergé avec **GitHub Pages**.
+
+---
+
+## 📦 Installation
+
+Pour utiliser ce portfolio localement :
+
+```bash
+git clone https://github.com/Aina-Kevin/Portfolio.git
+```
+
+Puis ouvrir le dossier :
+
+```bash
+cd Portfolio
+```
+
+Vous pouvez ensuite ouvrir `index.html` directement dans votre navigateur ou utiliser une extension comme **Live Server** dans VS Code.
+
+---
+
+## 🚀 Deployment
+
+Le site peut être déployé avec **GitHub Pages**.
+
+Après avoir effectué des modifications :
+
+```bash
+git add .
+git commit -m "Update portfolio"
+git push
+```
+
+GitHub Pages se charge ensuite de publier la nouvelle version du site.
+
+---
+
+## 📁 Project Structure
+
+```text
+Portfolio/
+│
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── vendor/
+│
+├── projects/
+│   ├── blog.html
+│   ├── detection_emotion.html
+│   ├── face_recognition.html
+│   ├── gan.html
+│   ├── object_detection.html
+│   └── ...
+│
+├── website_images/
+│
+├── favicon.png
+├── index.html
+├── LICENSE
+└── Readme.md
+```
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## ⭐ Support
+
+Si vous trouvez ce portfolio intéressant, n'hésitez pas à ⭐ **star le repository**.
+
+Merci pour votre visite ! 🚀
